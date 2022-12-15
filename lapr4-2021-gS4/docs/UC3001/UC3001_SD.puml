@@ -1,0 +1,47 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+'hide footbox
+actor "Utilizador" as ADM
+
+participant ":CatalogueUI" as UI
+participant ":CatalogueController" as CC
+participant ":CatalogueRepositoryJPAImpl" as CRJ
+participant ":CatalogueComparator" as CP
+participant "catalogueList\n:List<Catalogue>" as LIST_CAT
+
+activate ADM
+ADM -> UI : clicks the "sort catalogue" option
+activate UI
+UI --> ADM : asks what is the criteria to be used (title, responsible)
+deactivate UI
+
+ADM -> UI : chooses the criteria
+activate UI
+
+UI -> CC : catalogueList=getAllCatalogues()
+activate CC
+
+CC -> CRJ: catalogue list = catalogueRepositoryJPA.findAll()
+activate CRJ
+|||
+deactivate CRJ
+deactivate CC
+
+activate CP
+UI -> CP : sortByCriteria(catalogueList)
+deactivate CP
+
+UI --> ADM : shows the catalogues sorted by the criteria
+deactivate UI
+
+
+
+deactivate ADM
+
+@enduml
+
+
+@enduml

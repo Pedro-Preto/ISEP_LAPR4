@@ -1,0 +1,33 @@
+@startuml
+autonumber
+actor "System" as SYS
+
+activate SYS
+SYS -> ":LoggerFactory" : LOGGER = getLogger()
+activate ":LoggerFactory"
+deactivate ":LoggerFactory"
+SYS -> ":CriticalityBootstrapper" : execute()
+activate ":CriticalityBootstrapper"
+":CriticalityBootstrapper" -> ":ColorDesignation" : colorDesignation = new ColorDesignation(colorName)
+activate ":ColorDesignation"
+deactivate ":ColorDesignation"
+":CriticalityBootstrapper" -> ":CriticalityController" : new CriticalityController()
+activate ":CriticalityController"
+deactivate ":CriticalityController"
+":CriticalityBootstrapper" -> ":CriticalityID" : criticalityId = new CriticalityID(id)
+activate ":CriticalityID"
+deactivate ":CriticalityID"
+":CriticalityBootstrapper" -> ":Criticality" : criticality =new(id,value,scale,colorDesignation,maxTime,averageTime)
+activate ":Criticality"
+deactivate ":Criticality"
+":CriticalityBootstrapper" -> "criticalityController:CriticalityController" : addCriticality(criticality)
+activate "criticalityController:CriticalityController"
+"criticalityController:CriticalityController" -> "criticalityRepository:CriticalityRepository" : save(criticality)
+activate "criticalityRepository:CriticalityRepository"
+deactivate "criticalityRepository:CriticalityRepository"
+deactivate "criticalityController:CriticalityController"
+deactivate ":CriticalityBootstrapper"
+
+
+deactivate SYS
+@enduml

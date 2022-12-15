@@ -1,0 +1,44 @@
+@startuml
+autonumber
+actor "Collaborator" as COL
+
+
+activate ":Sistema"
+
+":Sistema" -> COL : mostra uma lista de serviços e solicita a escolha de um
+
+activate COL
+deactivate ":Sistema"
+
+COL -> ":Sistema" : introduz o id do serviço pretendida
+
+activate ":Sistema"
+
+":Sistema" --> COL : solicita a escolha entre formulário e workflow
+
+deactivate ":Sistema"
+
+COL -> ":Sistema" : novo formulário de serviço
+
+activate ":Sistema"
+":Sistema" --> COL : solicita nome e id do formulário
+
+deactivate ":Sistema"
+
+COL -> ":Sistema" : in troduz os dados solicitados
+
+activate ":Sistema"
+":Sistema" --> COL : solicita dados\n(tipos, nomes e labels dos atributos)
+
+deactivate ":Sistema"
+
+COL -> ":Sistema" : introduz a informação solicitada
+
+activate ":Sistema"
+
+":Sistema" -> COL: operação bem sucedida
+
+deactivate ":Sistema"
+
+deactivate COL
+@enduml

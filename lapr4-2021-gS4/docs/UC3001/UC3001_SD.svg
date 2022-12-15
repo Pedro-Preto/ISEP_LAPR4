@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="323.4px" preserveAspectRatio="none" style="width:954px;height:323px;" version="1.1" viewBox="0 0 954 323" width="954.1px" zoomAndPan="magnify"><defs><filter height="300%" id="fn4h49xs0w2i2" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="1.3999999999999997"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="2.7999999999999994" dy="2.7999999999999994" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FFFFFF" filter="url(#fn4h49xs0w2i2)" height="181.6227" style="stroke:#A80036;stroke-width:0.6999999999999998;" width="7" x="22.05" y="69.7266"/><rect fill="#FFFFFF" filter="url(#fn4h49xs0w2i2)" height="21.2461" style="stroke:#A80036;stroke-width:0.6999999999999998;" width="7" x="270.55" y="85.3727"/><rect fill="#FFFFFF" filter="url(#fn4h49xs0w2i2)" height="123.4844" style="stroke:#A80036;stroke-width:0.6999999999999998;" width="7" x="270.55" y="127.8648"/><rect fill="#FFFFFF" filter="url(#fn4h49xs0w2i2)" height="42.2461" style="stroke:#A80036;stroke-width:0.6999999999999998;" width="7" x="432.25" y="149.1109"/><rect fill="#FFFFFF" filter="url(#fn4h49xs0w2i2)" height="21" style="stroke:#A80036;stroke-width:0.6999999999999998;" width="7" x="657.65" y="170.357"/><rect fill="#FFFFFF" filter="url(#fn4h49xs0w2i2)" height="59.7461" style="stroke:#A80036;stroke-width:0.6999999999999998;" width="7" x="792.75" y="170.357"/><line style="stroke:#A80036;stroke-width:0.6999999999999998;stroke-dasharray:5.0,5.0;" x1="25.2" x2="25.2" y1="62.7266" y2="263.9492"/><line style="stroke:#A80036;stroke-width:0.6999999999999998;stroke-dasharray:5.0,5.0;" x1="273.7" x2="273.7" y1="62.7266" y2="263.9492"/><line style="stroke:#A80036;stroke-width:0.6999999999999998;stroke-dasharray:5.0,5.0;" x1="435.4" x2="435.4" y1="62.7266" y2="263.9492"/><line style="stroke:#A80036;stroke-width:0.6999999999999998;stroke-dasharray:5.0,5.0;" x1="661.15" x2="661.15" y1="62.7266" y2="263.9492"/><line style="stroke:#A80036;stroke-width:0.6999999999999998;stroke-dasharray:5.0,5.0;" x1="796.25" x2="796.25" y1="62.7266" y2="263.9492"/><line style="stroke:#A80036;stroke-width:0.6999999999999998;stroke-dasharray:5.0,5.0;" x1="903.35" x2="903.35" y1="62.7266" y2="263.9492"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="39.9" x="3.5" y="60.5732">Utilizador</text><ellipse cx="25.55" cy="10.5" fill="#FEFECE" filter="url(#fn4h49xs0w2i2)" rx="5.6" ry="5.6" style="stroke:#A80036;stroke-width:1.3999999999999997;"/><path d="M25.55,16.1 L25.55,35 M16.45,21.7 L34.65,21.7 M25.55,35 L16.45,45.5 M25.55,35 L34.65,45.5 " fill="none" filter="url(#fn4h49xs0w2i2)" style="stroke:#A80036;stroke-width:1.3999999999999997;"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="39.9" x="3.5" y="273.4225">Utilizador</text><ellipse cx="25.55" cy="282.5758" fill="#FEFECE" filter="url(#fn4h49xs0w2i2)" rx="5.6" ry="5.6" style="stroke:#A80036;stroke-width:1.3999999999999997;"/><path d="M25.55,288.1758 L25.55,307.0758 M16.45,293.7758 L34.65,293.7758 M25.55,307.0758 L16.45,317.5758 M25.55,307.0758 L34.65,317.5758 " fill="none" filter="url(#fn4h49xs0w2i2)" style="stroke:#A80036;stroke-width:1.3999999999999997;"/><rect fill="#FEFECE" filter="url(#fn4h49xs0w2i2)" height="22.1266" style="stroke:#A80036;stroke-width:1.0499999999999998;" width="66.5" x="239.4" y="37.1"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="56.7" x="244.3" y="52.1732">:CatalogueUI</text><rect fill="#FEFECE" filter="url(#fn4h49xs0w2i2)" height="22.1266" style="stroke:#A80036;stroke-width:1.0499999999999998;" width="66.5" x="239.4" y="263.2492"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="56.7" x="244.3" y="278.3225">:CatalogueUI</text><rect fill="#FEFECE" filter="url(#fn4h49xs0w2i2)" height="22.1266" style="stroke:#A80036;stroke-width:1.0499999999999998;" width="101.5" x="383.6" y="37.1"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="91.7" x="388.5" y="52.1732">:CatalogueController</text><rect fill="#FEFECE" filter="url(#fn4h49xs0w2i2)" height="22.1266" style="stroke:#A80036;stroke-width:1.0499999999999998;" width="101.5" x="383.6" y="263.2492"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="91.7" x="388.5" y="278.3225">:CatalogueController</text><rect fill="#FEFECE" filter="url(#fn4h49xs0w2i2)" height="22.1266" style="stroke:#A80036;stroke-width:1.0499999999999998;" width="140" x="589.75" y="37.1"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="130.2" x="594.65" y="52.1732">:CatalogueRepositoryJPAImpl</text><rect fill="#FEFECE" filter="url(#fn4h49xs0w2i2)" height="22.1266" style="stroke:#A80036;stroke-width:1.0499999999999998;" width="140" x="589.75" y="263.2492"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="130.2" x="594.65" y="278.3225">:CatalogueRepositoryJPAImpl</text><rect fill="#FEFECE" filter="url(#fn4h49xs0w2i2)" height="22.1266" style="stroke:#A80036;stroke-width:1.0499999999999998;" width="110.6" x="739.55" y="37.1"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="100.8" x="744.45" y="52.1732">:CatalogueComparator</text><rect fill="#FEFECE" filter="url(#fn4h49xs0w2i2)" height="22.1266" style="stroke:#A80036;stroke-width:1.0499999999999998;" width="110.6" x="739.55" y="263.2492"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="100.8" x="744.45" y="278.3225">:CatalogueComparator</text><rect fill="#FEFECE" filter="url(#fn4h49xs0w2i2)" height="34.4531" style="stroke:#A80036;stroke-width:1.0499999999999998;" width="84.7" x="859.95" y="24.7734"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="58.8" x="872.9" y="39.8467">catalogueList</text><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="74.9" x="864.85" y="52.1732">:List&lt;Catalogue&gt;</text><rect fill="#FEFECE" filter="url(#fn4h49xs0w2i2)" height="34.4531" style="stroke:#A80036;stroke-width:1.0499999999999998;" width="84.7" x="859.95" y="263.2492"/><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="58.8" x="872.9" y="278.3225">catalogueList</text><text fill="#000000" font-family="sans-serif" font-size="9.8" lengthAdjust="spacing" textLength="74.9" x="864.85" y="290.649">:List&lt;Catalogue&gt;</text><rect fill="#FFFFFF" filter="url(#fn4h49xs0w2i2)" height="181.6227" style="stroke:#A80036;stroke-width:0.6999999999999998;" width="7" x="22.05" y="69.7266"/><rect fill="#FFFFFF" filter="url(#fn4h49xs0w2i2)" height="21.2461" style="stroke:#A80036;stroke-width:0.6999999999999998;" width="7" x="270.55" y="85.3727"/><rect fill="#FFFFFF" filter="url(#fn4h49xs0w2i2)" height="123.4844" style="stroke:#A80036;stroke-width:0.6999999999999998;" width="7" x="270.55" y="127.8648"/><rect fill="#FFFFFF" filter="url(#fn4h49xs0w2i2)" height="42.2461" style="stroke:#A80036;stroke-width:0.6999999999999998;" width="7" x="432.25" y="149.1109"/><rect fill="#FFFFFF" filter="url(#fn4h49xs0w2i2)" height="21" style="stroke:#A80036;stroke-width:0.6999999999999998;" width="7" x="657.65" y="170.357"/><rect fill="#FFFFFF" filter="url(#fn4h49xs0w2i2)" height="59.7461" style="stroke:#A80036;stroke-width:0.6999999999999998;" width="7" x="792.75" y="170.357"/><polygon fill="#A80036" points="262.15,82.5727,269.15,85.3727,262.15,88.1727,264.95,85.3727" style="stroke:#A80036;stroke-width:0.6999999999999998;"/><line style="stroke:#A80036;stroke-width:0.6999999999999998;" x1="29.05" x2="266.35" y1="85.3727" y2="85.3727"/><text fill="#000000" font-family="sans-serif" font-size="9.1" font-weight="bold" lengthAdjust="spacing" textLength="4.9" x="33.95" y="81.9731">1</text><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="133.7" x="41.65" y="81.9731">clicks the "sort catalogue" option</text><polygon fill="#A80036" points="36.75,103.8187,29.75,106.6187,36.75,109.4187,33.95,106.6187" style="stroke:#A80036;stroke-width:0.6999999999999998;"/><line style="stroke:#A80036;stroke-width:0.6999999999999998;stroke-dasharray:2.0,2.0;" x1="32.55" x2="273.35" y1="106.6187" y2="106.6187"/><text fill="#000000" font-family="sans-serif" font-size="9.1" font-weight="bold" lengthAdjust="spacing" textLength="4.9" x="40.95" y="103.2192">2</text><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="217" x="48.65" y="103.2192">asks what is the criteria to be used (title, responsible)</text><polygon fill="#A80036" points="262.15,125.0648,269.15,127.8648,262.15,130.6648,264.95,127.8648" style="stroke:#A80036;stroke-width:0.6999999999999998;"/><line style="stroke:#A80036;stroke-width:0.6999999999999998;" x1="29.05" x2="266.35" y1="127.8648" y2="127.8648"/><text fill="#000000" font-family="sans-serif" font-size="9.1" font-weight="bold" lengthAdjust="spacing" textLength="4.9" x="33.95" y="124.4653">3</text><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="79.8" x="41.65" y="124.4653">chooses the criteria</text><polygon fill="#A80036" points="423.85,146.3109,430.85,149.1109,423.85,151.9109,426.65,149.1109" style="stroke:#A80036;stroke-width:0.6999999999999998;"/><line style="stroke:#A80036;stroke-width:0.6999999999999998;" x1="277.55" x2="428.05" y1="149.1109" y2="149.1109"/><text fill="#000000" font-family="sans-serif" font-size="9.1" font-weight="bold" lengthAdjust="spacing" textLength="4.9" x="282.45" y="145.7114">4</text><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="133.7" x="290.15" y="145.7114">catalogueList=getAllCatalogues()</text><polygon fill="#A80036" points="649.25,167.557,656.25,170.357,649.25,173.157,652.05,170.357" style="stroke:#A80036;stroke-width:0.6999999999999998;"/><line style="stroke:#A80036;stroke-width:0.6999999999999998;" x1="439.25" x2="653.45" y1="170.357" y2="170.357"/><text fill="#000000" font-family="sans-serif" font-size="9.1" font-weight="bold" lengthAdjust="spacing" textLength="4.9" x="444.15" y="166.9575">5</text><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="197.4" x="451.85" y="166.9575">catalogue list = catalogueRepositoryJPA.findAll()</text><polygon fill="#A80036" points="787.85,227.3031,794.85,230.1031,787.85,232.9031,790.65,230.1031" style="stroke:#A80036;stroke-width:0.6999999999999998;"/><line style="stroke:#A80036;stroke-width:0.6999999999999998;" x1="277.55" x2="792.05" y1="230.1031" y2="230.1031"/><text fill="#000000" font-family="sans-serif" font-size="9.1" font-weight="bold" lengthAdjust="spacing" textLength="4.9" x="282.45" y="226.7036">6</text><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="114.8" x="290.15" y="226.7036">sortByCriteria(catalogueList)</text><polygon fill="#A80036" points="33.25,248.5492,26.25,251.3492,33.25,254.1492,30.45,251.3492" style="stroke:#A80036;stroke-width:0.6999999999999998;"/><line style="stroke:#A80036;stroke-width:0.6999999999999998;stroke-dasharray:2.0,2.0;" x1="29.05" x2="273.35" y1="251.3492" y2="251.3492"/><text fill="#000000" font-family="sans-serif" font-size="9.1" font-weight="bold" lengthAdjust="spacing" textLength="4.9" x="37.45" y="247.9497">7</text><text fill="#000000" font-family="sans-serif" font-size="9.1" lengthAdjust="spacing" textLength="174.3" x="45.15" y="247.9497">shows the catalogues sorted by the criteria</text><!--MD5=[c77451105cd7f131e52f00ff450736fe]
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+'hide footbox
+actor "Utilizador" as ADM
+
+participant ":CatalogueUI" as UI
+participant ":CatalogueController" as CC
+participant ":CatalogueRepositoryJPAImpl" as CRJ
+participant ":CatalogueComparator" as CP
+participant "catalogueList\n:List<Catalogue>" as LIST_CAT
+
+activate ADM
+ADM -> UI : clicks the "sort catalogue" option
+activate UI
+UI - -> ADM : asks what is the criteria to be used (title, responsible)
+deactivate UI
+
+ADM -> UI : chooses the criteria
+activate UI
+
+UI -> CC : catalogueList=getAllCatalogues()
+activate CC
+
+CC -> CRJ: catalogue list = catalogueRepositoryJPA.findAll()
+activate CRJ
+|||
+deactivate CRJ
+deactivate CC
+
+activate CP
+UI -> CP : sortByCriteria(catalogueList)
+deactivate CP
+
+UI - -> ADM : shows the catalogues sorted by the criteria
+deactivate UI
+
+
+
+deactivate ADM
+
+@enduml
+
+@startuml
+
+autonumber
+
+actor "Utilizador" as ADM
+
+participant ":CatalogueUI" as UI
+participant ":CatalogueController" as CC
+participant ":CatalogueRepositoryJPAImpl" as CRJ
+participant ":CatalogueComparator" as CP
+participant "catalogueList\n:List<Catalogue>" as LIST_CAT
+
+activate ADM
+ADM -> UI : clicks the "sort catalogue" option
+activate UI
+UI - -> ADM : asks what is the criteria to be used (title, responsible)
+deactivate UI
+
+ADM -> UI : chooses the criteria
+activate UI
+
+UI -> CC : catalogueList=getAllCatalogues()
+activate CC
+
+CC -> CRJ: catalogue list = catalogueRepositoryJPA.findAll()
+activate CRJ
+|||
+deactivate CRJ
+deactivate CC
+
+activate CP
+UI -> CP : sortByCriteria(catalogueList)
+deactivate CP
+
+UI - -> ADM : shows the catalogues sorted by the criteria
+deactivate UI
+
+
+
+deactivate ADM
+
+@enduml
+
+PlantUML version 1.2021.5(Sun Apr 25 12:20:28 BST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: Dynamic Code Evolution 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>

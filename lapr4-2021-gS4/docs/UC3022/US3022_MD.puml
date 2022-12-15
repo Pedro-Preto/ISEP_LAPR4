@@ -1,0 +1,49 @@
+@startuml
+hide methods
+left to right direction
+skinparam classAttributeIconSize 0
+
+
+
+
+
+
+class Collaborator {
+}
+
+class User{
+-String name
+-String email
+-String password
+}
+
+class Task{
+-String description
+-Enum taskState
+-Enum taskCategory
+-Date limit
+}
+
+
+
+
+Collaborator"0..1"--"1" User:acts like >
+Collaborator"1"--"0..*" Task:responsible for >
+
+
+
+MechanographicNumber--* Collaborator
+FirstName--* Collaborator
+LastName--* Collaborator
+Functions--o Collaborator
+PhoneNumber --* Collaborator
+BirhtDate--o Collaborator
+Email --* Collaborator
+Address--o Collaborator
+
+Code--* Task
+Script--* Task
+
+
+
+@enduml

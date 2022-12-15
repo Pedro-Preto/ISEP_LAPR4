@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="514px" preserveAspectRatio="none" style="width:455px;height:514px;background:#FFFFFF;" version="1.1" viewBox="0 0 455 514" width="455px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1uv5h563hcq07" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0" />
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0" />
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3" />
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal" />
+        </filter>
+    </defs>
+    <g>
+        <rect fill="#FFFFFF" filter="url(#f1uv5h563hcq07)" height="289.1641" style="stroke:#A80036;stroke-width:1.0;" width="10" x="42" y="121.9609" />
+        <rect fill="#FFFFFF" filter="url(#f1uv5h563hcq07)" height="52.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="404" y="99.6094" />
+        <rect fill="#FFFFFF" filter="url(#f1uv5h563hcq07)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="404" y="182.3125" />
+        <rect fill="#FFFFFF" filter="url(#f1uv5h563hcq07)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="404" y="243.0156" />
+        <rect fill="#FFFFFF" filter="url(#f1uv5h563hcq07)" height="46.7031" style="stroke:#A80036;stroke-width:1.0;" width="10" x="404" y="303.7188" />
+        <rect fill="#FFFFFF" filter="url(#f1uv5h563hcq07)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="404" y="380.7734" />
+        <line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="47" x2="47" y1="89.6094" y2="429.125" />
+        <line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="409" x2="409" y1="89.6094" y2="429.125" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="5" y="86.5332">Collaborator</text>
+        <ellipse cx="47" cy="15" fill="#FEFECE" filter="url(#f1uv5h563hcq07)" rx="8" ry="8" style="stroke:#A80036;stroke-width:2.0;" />
+        <path d="M47,23 L47,50 M34,31 L60,31 M47,50 L34,65 M47,50 L60,65 " fill="none" filter="url(#f1uv5h563hcq07)" style="stroke:#A80036;stroke-width:2.0;" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="5" y="442.6582">Collaborator</text>
+        <ellipse cx="47" cy="455.7344" fill="#FEFECE" filter="url(#f1uv5h563hcq07)" rx="8" ry="8" style="stroke:#A80036;stroke-width:2.0;" />
+        <path d="M47,463.7344 L47,490.7344 M34,471.7344 L60,471.7344 M47,490.7344 L34,505.7344 M47,490.7344 L60,505.7344 " fill="none" filter="url(#f1uv5h563hcq07)" style="stroke:#A80036;stroke-width:2.0;" />
+        <rect fill="#FEFECE" filter="url(#f1uv5h563hcq07)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="68" x="373" y="53" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="380" y="74.5332">:Sistema</text>
+        <rect fill="#FEFECE" filter="url(#f1uv5h563hcq07)" height="31.6094" style="stroke:#A80036;stroke-width:1.5;" width="68" x="373" y="428.125" /><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="380" y="449.6582">:Sistema</text>
+        <rect fill="#FFFFFF" filter="url(#f1uv5h563hcq07)" height="289.1641" style="stroke:#A80036;stroke-width:1.0;" width="10" x="42" y="121.9609" />
+        <rect fill="#FFFFFF" filter="url(#f1uv5h563hcq07)" height="52.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="404" y="99.6094" />
+        <rect fill="#FFFFFF" filter="url(#f1uv5h563hcq07)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="404" y="182.3125" />
+        <rect fill="#FFFFFF" filter="url(#f1uv5h563hcq07)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="404" y="243.0156" />
+        <rect fill="#FFFFFF" filter="url(#f1uv5h563hcq07)" height="46.7031" style="stroke:#A80036;stroke-width:1.0;" width="10" x="404" y="303.7188" />
+        <rect fill="#FFFFFF" filter="url(#f1uv5h563hcq07)" height="30.3516" style="stroke:#A80036;stroke-width:1.0;" width="10" x="404" y="380.7734" />
+        <polygon fill="#A80036" points="63,117.9609,53,121.9609,63,125.9609,59,121.9609" style="stroke:#A80036;stroke-width:1.0;" />
+        <line style="stroke:#A80036;stroke-width:1.0;" x1="57" x2="403" y1="121.9609" y2="121.9609" /><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="69" y="117.1045">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="322" x="80" y="117.1045">mostra uma lista de serviços e solicita a escolha de um</text>
+        <polygon fill="#A80036" points="392,178.3125,402,182.3125,392,186.3125,396,182.3125" style="stroke:#A80036;stroke-width:1.0;" />
+        <line style="stroke:#A80036;stroke-width:1.0;" x1="52" x2="398" y1="182.3125" y2="182.3125" /><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="59" y="177.4561">2</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="197" x="70" y="177.4561">introduz o id do serviço pretendida</text>
+        <polygon fill="#A80036" points="63,208.6641,53,212.6641,63,216.6641,59,212.6641" style="stroke:#A80036;stroke-width:1.0;" />
+        <line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="57" x2="408" y1="212.6641" y2="212.6641" /><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="69" y="207.8076">3</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="258" x="80" y="207.8076">solicita a escolha entre formulário e workflow</text>
+        <polygon fill="#A80036" points="392,239.0156,402,243.0156,392,247.0156,396,243.0156" style="stroke:#A80036;stroke-width:1.0;" />
+        <line style="stroke:#A80036;stroke-width:1.0;" x1="52" x2="398" y1="243.0156" y2="243.0156" /><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="59" y="238.1592">4</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="148" x="70" y="238.1592">novo formulário de serviço</text>
+        <polygon fill="#A80036" points="63,269.3672,53,273.3672,63,277.3672,59,273.3672" style="stroke:#A80036;stroke-width:1.0;" />
+        <line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="57" x2="408" y1="273.3672" y2="273.3672" /><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="69" y="268.5107">5</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="180" x="80" y="268.5107">solicita nome e id do formulário</text>
+        <polygon fill="#A80036" points="392,299.7188,402,303.7188,392,307.7188,396,303.7188" style="stroke:#A80036;stroke-width:1.0;" />
+        <line style="stroke:#A80036;stroke-width:1.0;" x1="52" x2="398" y1="303.7188" y2="303.7188" /><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="59" y="298.8623">6</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="173" x="70" y="298.8623">in troduz os dados solicitados</text>
+        <polygon fill="#A80036" points="63,346.4219,53,350.4219,63,354.4219,59,350.4219" style="stroke:#A80036;stroke-width:1.0;" />
+        <line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="57" x2="408" y1="350.4219" y2="350.4219" /><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="69" y="337.3896">7</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="80" x="80" y="329.2139">solicita dados</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="211" x="80" y="345.5654">(tipos, nomes e labels dos atributos)</text>
+        <polygon fill="#A80036" points="392,376.7734,402,380.7734,392,384.7734,396,380.7734" style="stroke:#A80036;stroke-width:1.0;" />
+        <line style="stroke:#A80036;stroke-width:1.0;" x1="52" x2="398" y1="380.7734" y2="380.7734" /><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="59" y="375.917">8</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="183" x="70" y="375.917">introduz a informação solicitada</text>
+        <polygon fill="#A80036" points="58,407.125,48,411.125,58,415.125,54,411.125" style="stroke:#A80036;stroke-width:1.0;" />
+        <line style="stroke:#A80036;stroke-width:1.0;" x1="52" x2="408" y1="411.125" y2="411.125" /><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="64" y="406.2686">9</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="138" x="75" y="406.2686">operação bem sucedida</text>
+        <!--MD5=[eee2f75492270b5751b3a2509a4b0add]
+@startuml
+autonumber
+actor "Collaborator" as COL
+
+
+activate ":Sistema"
+
+":Sistema" -> COL : mostra uma lista de serviços e solicita a escolha de um
+
+activate COL
+deactivate ":Sistema"
+
+COL -> ":Sistema" : introduz o id do serviço pretendida
+
+activate ":Sistema"
+
+":Sistema" - -> COL : solicita a escolha entre formulário e workflow
+
+deactivate ":Sistema"
+
+COL -> ":Sistema" : novo formulário de serviço
+
+activate ":Sistema"
+":Sistema" - -> COL : solicita nome e id do formulário
+
+deactivate ":Sistema"
+
+COL -> ":Sistema" : in troduz os dados solicitados
+
+activate ":Sistema"
+":Sistema" - -> COL : solicita dados\n(tipos, nomes e labels dos atributos)
+
+deactivate ":Sistema"
+
+COL -> ":Sistema" : introduz a informação solicitada
+
+activate ":Sistema"
+
+":Sistema" -> COL: operação bem sucedida
+
+deactivate ":Sistema"
+
+deactivate COL
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 13:40:07 BST 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+-->
+    </g>
+</svg>

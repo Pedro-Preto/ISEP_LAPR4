@@ -1,0 +1,8 @@
+Integer age//Please insert your age:
+String name//Please insert your name:
+Date date//Please inser your birth date (use this formate(dd/mm/yyyy)):
+Bool isValid//If is valid type "true" if is "false" type false:
+Name name//Please insert your name:
+PhoneNumber number//Please insert your Phone Number:
+Address address//Please insert your address:
+PostalCode code//Please insert your postal code:

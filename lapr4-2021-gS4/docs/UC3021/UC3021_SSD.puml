@@ -1,0 +1,34 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+'hide footbox
+actor "Collaborator" as ADM
+
+participant ":System" as UI
+
+activate ADM
+ADM -> UI : Start the process to access pending tasks
+activate UI
+UI --> ADM : Asks to insert a limit date
+deactivate UI
+
+ADM -> UI : Types Request data
+activate UI
+
+UI --> ADM : Shows the pending tasks
+deactivate UI
+
+ADM -> UI : Confirms
+activate UI
+
+UI --> ADM : Informs the success the operation
+deactivate UI
+
+deactivate ADM
+
+@enduml
+
+
+@enduml

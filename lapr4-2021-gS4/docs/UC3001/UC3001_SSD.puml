@@ -1,0 +1,30 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+'hide footbox
+actor "Utilizador" as ADM
+
+participant ":CatalogueUI" as UI
+
+activate ADM
+ADM -> UI : clicks the "sort catalogue" option
+activate UI
+UI --> ADM : asks what is the criteria to be used (title, responsible)
+deactivate UI
+
+ADM -> UI : chooses the criteria
+activate UI
+
+UI --> ADM : shows the catalogues sorted by the criteria
+deactivate UI
+
+
+
+deactivate ADM
+
+@enduml
+
+
+@enduml

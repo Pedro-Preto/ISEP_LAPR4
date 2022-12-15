@@ -1,0 +1,30 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+'hide footbox
+actor "Collaborator" as ADM
+
+participant ":System" as UI
+
+activate ADM
+ADM -> UI : Start the process to claim
+activate UI
+UI --> ADM : Request the code of the task in order to claim it
+deactivate UI
+
+ADM -> UI : Insert code
+activate UI
+
+UI --> ADM : Inform the success of the operation
+deactivate UI
+
+
+
+deactivate ADM
+
+@enduml
+
+
+@enduml
